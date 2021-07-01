@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\c#\CS_2017_001\bin\Debug\CS_2017_001.exe.config
+C:\Users\DELL\Desktop\c#\CS_2017_001\bin\Debug\CS_2017_001.exe
+C:\Users\DELL\Desktop\c#\CS_2017_001\bin\Debug\CS_2017_001.pdb
+C:\Users\DELL\Desktop\c#\CS_2017_001\obj\Debug\CS_2017_001.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\c#\CS_2017_001\obj\Debug\CS_2017_001.Form1.resources
+C:\Users\DELL\Desktop\c#\CS_2017_001\obj\Debug\CS_2017_001.Properties.Resources.resources
+C:\Users\DELL\Desktop\c#\CS_2017_001\obj\Debug\CS_2017_001.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\c#\CS_2017_001\obj\Debug\CS_2017_001.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\c#\CS_2017_001\obj\Debug\CS_2017_001.exe
+C:\Users\DELL\Desktop\c#\CS_2017_001\obj\Debug\CS_2017_001.pdb
